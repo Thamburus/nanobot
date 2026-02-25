@@ -13,8 +13,8 @@ Notes
 This repository contains a minimal project for the "nanobot" model. The README records the approximate size and class of the model. Update this file with usage instructions, licensing, or model weights as needed.
 
 
- NanoBot-DeepSeek — 26.8M Parameter MoE Model (Trained from Scratch)
-
+NanoBot-DeepSeek — 26.8M Parameter MoE Model (Trained from Scratch)
+=======
 Built a Mixture-of-Experts Transformer in PyTorch with:
 
 • ~26.8M total parameters
